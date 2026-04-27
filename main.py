@@ -1,5 +1,5 @@
-it contains main code
-i am trying to code llm meditaion app
+#it contains main code
+#i am trying to code llm meditaion app
 
 import openai
 
